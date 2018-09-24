@@ -11,3 +11,9 @@ git checkout -- <file>
 git hist
   displays a history of commits and other pertinent info on the file or files
   in the pwd
+git commit -m "type your message here"
+  commits the most recent working file with a commit message as type in the
+  quotes
+git commit -a
+  opens text editor and commits all the files in the pwd with a commit messsage
+  edited in the text editor
