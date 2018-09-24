@@ -7,4 +7,7 @@ git show
 git reset HEAD <file>
   unstages the file that was staged for commit
 git checkout -- <file>
-  reverts back to the file originally in the git directory before staging 
+  reverts back to the file originally in the git directory before staging
+git hist
+  displays a history of commits and other pertinent info on the file or files
+  in the pwd
