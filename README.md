@@ -17,3 +17,5 @@ git commit -m "type your message here"
 git commit -a
   opens text editor and commits all the files in the pwd with a commit messsage
   edited in the text editor
+git rm <file>
+  removes file from OS and from git repo; must commit to finish removal
