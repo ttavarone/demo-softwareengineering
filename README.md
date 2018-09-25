@@ -19,3 +19,6 @@
   -edited in the text editor
 9. git rm <file>
   -removes file from OS and from git repo; must commit to finish removal
+10. git init
+    -initializes and empty directory in the current directory
+A branch
