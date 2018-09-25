@@ -21,4 +21,12 @@
   -removes file from OS and from git repo; must commit to finish removal
 10. git init
     -initializes and empty directory in the current directory
-A branch
+11. git branch -d <branchName>
+    -deletes branchName
+12. git merge <branchName>
+    -merges the branchName with the current branch
+13. git checkout -b <branchName>
+    -creates a branch with the new branchName and moves all changes not commited
+    over to this new branch
+14. git checkout <branchName>
+    -switches to branchName
